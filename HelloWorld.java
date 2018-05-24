@@ -5,6 +5,6 @@ public class HelloWorld {
 		System.out.println("Hello World from master branch again!" );
 		System.out.println("Hello World from dev branch!" );
 		System.out.println("Hello World from master branch!" );
-		// resolved with "git add/rm <HelloWorld.java> "
+		System.out.println("Hello World from feature branch!" );
     }
 }
